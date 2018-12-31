@@ -1,0 +1,14 @@
+{
+  "name": "08_node_js_reading_command_line_args",
+  "version": "1.0.0",
+  "description": "",
+  "main": "08_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
+}

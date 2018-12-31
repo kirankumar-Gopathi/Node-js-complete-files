@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+nav{
+    background-color: orange;
+    padding: 5px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 25px;
+    display: inline-block;
+    font-size: 18px;
+}
+nav a:hover{
+    background-color: darkred;
+    color: white;
+    box-shadow: 0 0 5px black;
+}
+h1{
+    color: darkred;
+    padding: 15px;
+}
+article{
+    padding: 15px;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "14_express_serving_html_pages",
+  "version": "1.0.0",
+  "description": "Express App",
+  "main": "14_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
